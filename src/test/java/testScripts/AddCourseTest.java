@@ -7,7 +7,7 @@ import org.testng.asserts.SoftAssert;
 
 import genericUtilities.Baseclass;
 import genericUtilities.Iconstantpath;
-
+//This test verifies if user s able to add course
 public class AddCourseTest extends Baseclass{
 	@Test
 	public void addCourseTest() throws InterruptedException {
